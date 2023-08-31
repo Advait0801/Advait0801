@@ -27,5 +27,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/advait-naik-344689245/)
 - [CodeChef](https://www.codechef.com/users/advait0801)
-- [Leetcode](https://leetcode.com/user9051xO/)
+- [Leetcode](https://leetcode.com/advait0801/)
 
