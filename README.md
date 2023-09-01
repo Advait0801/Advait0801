@@ -20,7 +20,7 @@
 
 ## 🙂 Reach me at
 
-- Email at **ad.naik0801@gmail.com**
+- Email at **ad.naik2003@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/advait-naik-344689245/)
 
 ## 🌐 Profiles
