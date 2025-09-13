@@ -49,6 +49,6 @@ Hi, I’m **Advait Naik**, a graduate student at the **University of Southern Ca
 ### 🚀 Profiles
 | Platform | Link |
 |----------|------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" /> LeetCode | [advait0801](https://leetcode.com/advait0801/) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" /> LeetCode | [advait_lc](https://leetcode.com/u/advait_lc/) |
 | <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" width="20" /> CodeChef | [advait0801](https://www.codechef.com/users/advait0801) |
 | <img src="https://sta.codeforces.com/s/66599/images/codeforces-sponsored-by-ton.png" width="20" /> Codeforces | [advait_cf](https://codeforces.com/profile/advait_cf) |
