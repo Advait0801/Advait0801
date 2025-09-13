@@ -126,5 +126,3 @@ Hi, I’m <b>Advait Naik</b>, a graduate student at the <b>University of Souther
   </tr>
 </table>
 </p>
-
----
