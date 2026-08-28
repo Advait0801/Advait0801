@@ -1,124 +1,206 @@
-<h1 align="center">Hi 👋, I'm Advait Naik</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Advait%20Naik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Retrieval%20Systems%20·%20ML%20Infrastructure%20·%20Backend&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <b>MSCS @USC | Full Stack Development (Web and Mobile) | AIML</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=560&lines=SWE+Intern+%40+Plus+AI;Research+Assistant+%40+USC+CESR;1st+Place%2C+SemEval+2024;MSCS+%40+USC%2C+May+2027" alt="Typing SVG" />
 </p>
 
----
-
-### 👨‍💻 About Me
-Hi, I’m <b>Advait Naik</b>, a graduate student at the <b>University of Southern California</b> pursuing a <b>Master’s in Computer Science</b>.<br>
-💡 I specialize in **Full Stack Development (Web and Mobile)**, with a focus on building scalable applications and integrating Artificial Intelligence and Machine Learning.<br>
-🔧 My experience ranges from architecting fitness and IoT apps with **Flutter** and **Firebase** to engineering RAG-based iOS assistants and AI platforms using **Ollama**, **SwiftUI**, and **FastAPI**. I focus on building high-performance backends and deploying them via **Dockerized** pipelines on **AWS**.<br>
-📚 I am an active competitive programmer, which has helped me build a deep understanding of algorithms and data structures.<br>
-🚀 I’m currently seeking opportunities in software engineering and AI/ML, where I can contribute to creating intelligent, scalable, and future-ready technologies.
-
----
-
-### ⚒️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/SwiftUI-000000?style=plastic&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" alt="Flask" />
-  
-  <br/>
-
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white" alt="Redis" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Ollama-black?style=plastic&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Cursor-black?style=plastic&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
+  <a href="https://www.linkedin.com/in/advait-naik-344689245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ad.naik2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/advait_lc/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/advait_cf"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
----
+<br>
 
-### 🌐 Connect with Me
+## What I Build
 
-<p align="center">
-<table cellpadding="15" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd; width: 400px;">
-  <tr>
-    <td align="center" width="80" style="border: 1px solid #ddd; padding: 15px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
-    </td>
-    <td align="left" style="border: 1px solid #ddd; padding: 15px; font-size: 16px;">
-      <a href="mailto:ad.naik2003@gmail.com">ad.naik2003@gmail.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80" style="border: 1px solid #ddd; padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-    </td>
-    <td align="left" style="border: 1px solid #ddd; padding: 15px; font-size: 16px;">
-      <a href="https://www.linkedin.com/in/advait-naik-344689245/">Advait Naik</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80" style="border: 1px solid #ddd; padding: 15px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />
-    </td>
-    <td align="left" style="border: 1px solid #ddd; padding: 15px; font-size: 16px;">
-      <a href="https://www.instagram.com/advait0801/">@advait0801</a>
-    </td>
-  </tr>
+> I build search and retrieval systems that run in production, plus the GPU and orchestration
+> infrastructure they sit on. The thing I keep coming back to is the gap between a model that
+> works in a notebook and a system that holds up under load.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Plus AI
+**Software Engineer Intern**
+
+Shipped semantic video search end to end across 4 production repos: ingestion wheel, NVIDIA Cosmos indexer, GPU embedder, and an Argo workflow on Kubernetes.
+
+`47 GPU-seconds per driving-hour`
+
+</td>
+<td width="50%" valign="top">
+
+### USC CESR
+**Research Assistant**
+
+Retrieval-augmented QA over harmonized ageing-survey metadata. Hybrid BM25 and dense retrieval, cross-encoder reranking, grounded generation.
+
+`retrieval accuracy 7/14 → 12/14`
+
+</td>
+</tr>
 </table>
-</p>
-
----
-
-### 💻 Coding Profiles
 
 <p align="center">
-<table cellpadding="15" cellspacing="0" style="border-collapse: collapse; border: 1px solid #ddd; width: 400px;">
-  <tr>
-    <td align="center" width="80" style="border: 1px solid #ddd; padding: 15px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" />
-    </td>
-    <td align="left" style="border: 1px solid #ddd; padding: 15px; font-size: 16px;">
-      <a href="https://leetcode.com/u/advait_lc/">advait_lc</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80" style="border: 1px solid #ddd; padding: 15px;">
-      <img src="https://sta.codeforces.com/s/66599/images/codeforces-sponsored-by-ton.png" width="30" />
-    </td>
-    <td align="left" style="border: 1px solid #ddd; padding: 15px; font-size: 16px;">
-      <a href="https://codeforces.com/profile/advait_cf">advait_cf</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80" style="border: 1px solid #ddd; padding: 15px;">
-      <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" width="30" />
-    </td>
-    <td align="left" style="border: 1px solid #ddd; padding: 15px; font-size: 16px;">
-      <a href="https://www.codechef.com/users/advait0801">advait0801</a>
-    </td>
-  </tr>
-</table>
+  <sub><i>Most of my current work lives in private repos at Plus AI and USC CESR.<br>
+  What's public here is side projects and research.</i></sub>
 </p>
+
+<br>
+
+## Selected Work
+
+<details open>
+<summary><b>InterviewForge</b> · Next.js, FastAPI, LangChain, ChromaDB, Docker</summary>
+
+<br>
+
+Company-aware RAG over a curated interview corpus, grounding LLM question generation with top-k
+retrieval filtered by company and stage. User-submitted code runs in ephemeral, network-disabled
+Docker containers with memory caps and timeouts, so concurrent submissions can't race or reach
+the host.
+
+<a href="https://github.com/Advait0801/InterviewForge"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+</details>
+
+<details>
+<summary><b>AgriTech</b> · PyTorch, Vision Transformer, Flask, ThingSpeak</summary>
+
+<br>
+
+Vision Transformer fine-tuned for crop-disease detection at 94% accuracy across 6 categories,
+with KNN and Random Forest models for yield prediction at 97.53% and 96.42%. Survey paper
+published at IEEE GC4T 2025.
+
+<a href="https://github.com/Advait0801/AgriTech"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+</details>
+
+<details>
+<summary><b>SemEval 2024 — Semantic Textual Relatedness</b> · Sentence Transformers, PyTorch</summary>
+
+<br>
+
+Supervised, unsupervised, and cross-lingual approaches to Semantic Textual Relatedness across
+English, Hindi, Marathi, and Spanish. Built a translation-based pipeline to transfer labeled
+data into low-resource languages with no directly labeled corpora.
+
+**Ranked 1st in the unsupervised Hindi track.**
+
+<a href="https://github.com/RA-01-CAILMD-23/SemEval-24-01"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+</details>
+
+<br>
+
+## Tech
+
+<p align="center"><b>LANGUAGES</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center"><b>ML &amp; RETRIEVAL</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/BM25-6E7B8B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--Encoder_Reranking-4B5563?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+<p align="center"><b>BACKEND</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center"><b>FRONTEND</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+<p align="center"><b>INFRASTRUCTURE &amp; CLOUD</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+</p>
+
+<p align="center"><b>DATABASES</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+<p align="center"><b>TOOLS</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<br>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [InterviewForge](https://github.com/Advait0801/InterviewForge)
+
+Company-aware RAG over a curated interview corpus, with sandboxed code execution in ephemeral Docker containers.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+#### [AgriTech](https://github.com/Advait0801/AgriTech)
+
+Vision Transformer for crop-disease detection at 94% accuracy, plus yield prediction models. Published at IEEE GC4T 2025.
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
