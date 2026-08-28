@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Advait%20Naik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Retrieval%20Systems%20·%20ML%20Infrastructure%20·%20Backend&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Advait%20Naik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20Building%20AI%20into%20real%20systems&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=560&lines=SWE+Intern+%40+Plus+AI;Research+Assistant+%40+USC+CESR;1st+Place%2C+SemEval+2024;MSCS+%40+USC%2C+May+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=580&lines=Software+Engineer;I+build+systems%2C+then+put+AI+inside+them;SWE+Intern+%40+Plus+AI;MSCS+%40+USC%2C+May+2027" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ## What I Build
 
-> I build search and retrieval systems that run in production, plus the GPU and orchestration
-> infrastructure they sit on. The thing I keep coming back to is the gap between a model that
-> works in a notebook and a system that holds up under load.
+> I build software systems and put AI inside them. Backend services, data pipelines, deployment
+> infrastructure, and the models that have to hold up once they're in production. The interesting
+> problems are rarely in the model itself. They're in everything around it.
 
 <table>
 <tr>
@@ -109,6 +109,21 @@ data into low-resource languages with no directly labeled corpora.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
+<p align="center"><b>BACKEND</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center"><b>FRONTEND</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
 <p align="center"><b>ML &amp; RETRIEVAL</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -125,21 +140,6 @@ data into low-resource languages with no directly labeled corpora.
   <img src="https://img.shields.io/badge/BM25-6E7B8B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Cross--Encoder_Reranking-4B5563?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
-<p align="center"><b>BACKEND</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center"><b>FRONTEND</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
 <p align="center"><b>INFRASTRUCTURE &amp; CLOUD</b></p>
@@ -170,37 +170,5 @@ data into low-resource languages with no directly labeled corpora.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
-
-<br>
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [InterviewForge](https://github.com/Advait0801/InterviewForge)
-
-Company-aware RAG over a curated interview corpus, with sandboxed code execution in ephemeral Docker containers.
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-#### [AgriTech](https://github.com/Advait0801/AgriTech)
-
-Vision Transformer for crop-disease detection at 94% accuracy, plus yield prediction models. Published at IEEE GC4T 2025.
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-
-</td>
-</tr>
-</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
