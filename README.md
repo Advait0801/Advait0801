@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Advait%20Naik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20Building%20AI%20into%20real%20systems&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=580&lines=Software+Engineer;I+build+systems%2C+then+put+AI+inside+them;SWE+Intern+%40+Plus+AI;MSCS+%40+USC%2C+May+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=580&lines=Software+Engineer;I+build+systems%2C+then+integrate+AI+into+them;Research+Assistant+%40+USC+CESR;Prev+SWE+Intern+%40+Plus+AI;MSCS+%40+USC%2C+May+2027" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## What I Build
 
-> I build software systems and put AI inside them. Backend services, data pipelines, deployment
+> I build software systems and integrate AI into them. Backend services, data pipelines, deployment
 > infrastructure, and the models that have to hold up once they're in production. The interesting
 > problems are rarely in the model itself. They're in everything around it.
 
@@ -23,29 +23,29 @@
 <tr>
 <td width="50%" valign="top">
 
+### USC CESR
+**Research Assistant** · current
+
+Retrieval-augmented QA over 29,716 harmonized ageing-survey documents across 10 HRS/ELSA waves. Hybrid BM25 and dense retrieval, cross-encoder reranking, grounded generation, FastAPI/Next.js review app.
+
+`~450 ms retrieval` · `353/373 eval cases`
+
+</td>
+<td width="50%" valign="top">
+
 ### Plus AI
-**Software Engineer Intern**
+**Software Engineer Intern** · Summer 2026
 
 Shipped semantic video search end to end across 4 production repos: ingestion wheel, NVIDIA Cosmos indexer, GPU embedder, and an Argo workflow on Kubernetes.
 
 `47 GPU-seconds per driving-hour`
 
 </td>
-<td width="50%" valign="top">
-
-### USC CESR
-**Research Assistant**
-
-Retrieval-augmented QA over harmonized ageing-survey metadata. Hybrid BM25 and dense retrieval, cross-encoder reranking, grounded generation.
-
-`retrieval accuracy 7/14 → 12/14`
-
-</td>
 </tr>
 </table>
 
 <p align="center">
-  <sub><i>Most of my current work lives in private repos at Plus AI and USC CESR.<br>
+  <sub><i>Most of my professional work lives in private repos at USC CESR and Plus AI.<br>
   What's public here is side projects and research.</i></sub>
 </p>
 
