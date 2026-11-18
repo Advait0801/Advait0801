@@ -26,7 +26,7 @@
 ### PlusAI
 **Software Engineer Intern** · current
 
-Shipped semantic video search end to end across 4 production repos: ingestion wheel, NVIDIA Cosmos indexer, GPU embedder, and an Argo workflow on Kubernetes.
+Shipped semantic video search end to end across 4 production repos: ingestion wheel, NVIDIA Cosmos indexer, GPU embedder, and an Argo workflow on Kubernetes. Clustered 2.03M production clips to surface recurring driving scenarios.
 
 `47 GPU-seconds per driving-hour`
 
@@ -36,7 +36,7 @@ Shipped semantic video search end to end across 4 production repos: ingestion wh
 ### USC CESR
 **Research Assistant** · current
 
-Retrieval-augmented QA over 29,716 ageing-survey documents across 10 HRS/ELSA waves. Hybrid BM25 and dense retrieval, grounded generation, FastAPI/Next.js app on Postgres and pgvector.
+RAG QA over 29,716 ageing-survey documents across 10 HRS/ELSA waves, deployed on AWS Elastic Beanstalk. Hybrid BM25 and dense retrieval, grounded generation, and models chosen by benchmarking on Amazon Bedrock.
 
 `identifier lookups 81.7% → 97.5%` · `355/373 eval cases`
 
@@ -54,7 +54,7 @@ Retrieval-augmented QA over 29,716 ageing-survey documents across 10 HRS/ELSA wa
 ## Selected Work
 
 <details open>
-<summary><b>InterviewForge</b> · Next.js, Express, FastAPI, PostgreSQL, ChromaDB, Docker</summary>
+<summary><b>InterviewForge</b> · Next.js, Express, FastAPI, PostgreSQL, Redis, ChromaDB, Docker</summary>
 
 <br>
 
@@ -63,25 +63,32 @@ AI mock interview platform running a full loop (behavioral, coding, system desig
 
 - Raised retrieval quality from **nDCG 0.7712 → 0.9009** on a 42-query labelled benchmark by
   building the evaluation harness first, then testing five techniques and reverting the two that lost.
-- Cut retrieval **p50 latency 6.6×** (1762 ms → 268 ms) at equal quality by routing per interview
-  stage instead of stacking techniques.
-- Hardened the code sandboxes and proved each control adversarially: a fork bomb stops at
-  **exactly 127 children**, and `/etc/passwd` writes succeeded before the change and are blocked after.
+- Built a **bounded agentic interviewer** (at most 3 steps and 2 searches per turn) with guardrails
+  enforced in backend code rather than prompts, plus per-interview LLM cost metering and caps.
+- Sandboxed code execution for **7 languages** in unprivileged, network-isolated containers, each
+  control proven adversarially: fork bombs capped at **127 processes**, root filesystem writes blocked.
 
 <a href="https://github.com/Advait0801/InterviewForge"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </details>
 
 <details>
-<summary><b>AgriTech</b> · PyTorch, Vision Transformer, Flask, ThingSpeak</summary>
+<summary><b>Mulligan</b> · MCP, Python, React, Stripe · 🏆 3rd Place, Best Use of Devin, AI LA Hacks 2026</summary>
 
 <br>
 
-Vision Transformer fine-tuned for crop-disease detection at 94% accuracy across 6 categories,
-with KNN and Random Forest models for yield prediction at 97.53% and 96.42%. Survey paper
-published at IEEE GC4T 2025.
+A do-over for AI agents. An MCP gateway that agents act through: it records every action, holds the
+ones that can't be undone until a person approves over iMessage, and rewinds a whole agent session
+across Postgres, GitHub and Notion. Built in a team of two; I owned everything a person touches.
 
-<a href="https://github.com/Advait0801/AgriTech"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+- Built **human-in-the-loop approval** over iMessage: irreversible calls (payments, emails, unknown
+  tools) are held, never run, until a person replies with a 4-digit code.
+- Gave payments an **undo window** with Stripe manual capture, and designed a **fail-closed rules gate**
+  so any unknown tool that isn't clearly read-only waits for a person.
+- Built the real-time **React dashboard**: live action timeline over SSE, dry-run rewind plan and
+  per-system checksum proof.
+
+<a href="https://github.com/Manas-33/mulligan"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </details>
 
@@ -97,6 +104,19 @@ data into low-resource languages with no directly labeled corpora.
 **Ranked 1st in the unsupervised Hindi track.**
 
 <a href="https://github.com/RA-01-CAILMD-23/SemEval-24-01"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+</details>
+
+<details>
+<summary><b>AgriTech</b> · PyTorch, Vision Transformer, Flask, ThingSpeak</summary>
+
+<br>
+
+Vision Transformer fine-tuned for crop-disease detection at 94% accuracy across 6 categories,
+with KNN and Random Forest models for yield prediction at 97.53% and 96.42%. Survey paper
+published at IEEE GC4T 2025.
+
+<a href="https://github.com/Advait0801/AgriTech"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </details>
 
@@ -125,9 +145,9 @@ data into low-resource languages with no directly labeled corpora.
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="44" height="44" alt="Transformers" /><br><sub><b>Transformers</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /><br><sub><b>scikit-learn</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/26D0CE" width="44" height="44" alt="LangChain" /><br><sub><b>LangChain</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="44" height="44" alt="NVIDIA Cosmos" /><br><sub><b>NVIDIA Cosmos</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
 </tr>
 </table>
 <sub>RAG · BM25 · Cross-encoders</sub>
